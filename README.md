@@ -84,7 +84,7 @@ Final implemented design after synthesis and implementation in Vivado.
 4. Synthesize and implement the design
 5. Generate the **bitstream**
 6. Program the **Arty A7 FPGA board**
-7. Observe the NAND gate functionality on the hardware
+7. Observe the NOR gate functionality on the hardware
 
 ## Design Flow
 
